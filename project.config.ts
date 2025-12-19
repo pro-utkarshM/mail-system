@@ -5,7 +5,7 @@ export const ORG_DOMAIN = "nerdynet.co";
 export const ORG_NAME = "Nerdy Network";
 
 
-export const SENDER_EMAIL = `noreply@${ORG_DOMAIN}`;
+export const SENDER_EMAIL = `contact@${ORG_DOMAIN}`;
 export const SENDER = `${APPLICATION_NAME} <${SENDER_EMAIL}>`;
 
 
