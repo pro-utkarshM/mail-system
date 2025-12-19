@@ -1,8 +1,8 @@
 
 
-export const APPLICATION_NAME = "Nexonauts";
-export const ORG_DOMAIN = "nexonauts.com";
-export const ORG_NAME = "Nexonauts";
+export const APPLICATION_NAME = "Nerdy-Network";
+export const ORG_DOMAIN = "nerdynet.co";
+export const ORG_NAME = "Nerdy Network";
 
 
 export const SENDER_EMAIL = `noreply@${ORG_DOMAIN}`;
@@ -27,7 +27,7 @@ if(!MAIL_EMAIL || !MAIL_PASSWORD || !SMTP_HOST) {
 
 
 export const SMTP_SETTINGS = {
-    host: SMTP_HOST ||"smtp-relay.sendinblue.com", // "smtp.gmail.com", //replace with your email provider
+    host: SMTP_HOST ||" smtp-relay.brevo.com ", // "smtp.gmail.com", //replace with your email provider
     port: 587,
     // secure: false, // true for 465, false for other ports
     auth: {

@@ -15,18 +15,18 @@ import {
 
 
 const organization = {
-  name: "Nexonauts",
+  name: "Nerdy Network",
   tagline: "Think different",
-  logo: "https://nexonauts.com/assets/logo.svg",
-  address: "Nexonauts, 1234 Street Name, City, State, Zip",
-  url: "https://nexonauts.com",
-  email: "contact@nexonauts.com",
+  logo: "https://nerdynet.co/assets/logo.svg",
+  address: "Nerdy Network, 1234 Street Name, City, State, Zip",
+  url: "https://nerdynet.co",
+  email: "contact@nerdynet.co",
   phone: "+1 (123) 456-7890",
   socials:{
-    twitter: "https://twitter.com/kanakkholwal",
-    linkedin: "https://linkedin.com/in/kanakkholwal",
-    instagram: "https://instagram.com/kanakkholwal",
-    github: "https://github.com/kanakkholwal"
+    twitter: "https://twitter.com/nerdynetco",
+    linkedin: "https://linkedin.com/in/nerdynetco",
+    instagram: "https://instagram.com/nerdynetco",
+    github: "https://github.com/nerdynetco"
   }
 }
 
